@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_title">إضافة سهم جديد</string>
+    <string name="dialog_hint">سهم (مثل GOOG)</string>
+    <string name="dialog_cancel">إلغاء</string>
+    <string name="dialog_add">إضافة</string>
+
+    <string name="error_no_network">لا يوجد إتصال بالإنترنت ! سوف يتم تحميل تفاصيل الأسهم لاحقا.</string>
+    <string name="error_no_stocks">لم يتم إضافة أى أسهم. أنقر على الزر لإضافة سهم جديد.</string>
+
+    <string name="toast_stock_added_no_connectivity">تم إضافة السهم  %s سيكون متاحاَ عند توافر الإتصال بالإنترنت.</string>
+    <string name="toast_no_connectivity">سيتم التحديث عندما يوجد إتصال.</string>
+
+    <string name="graph_description">"قيمة السهم على مدار الوقت"</string>
+    <string name="appwidget_text">مثال</string>
+    <string name="configure">ضبط الإعدادات</string>
+    <string name="add_widget">إضافة أداة</string>
+    <string name="empty_view_text">لا يوجد إتصال بالإنترنت</string>
+</resources>
